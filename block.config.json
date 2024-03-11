@@ -1,0 +1,20 @@
+{
+  "blockId": "QtmJPmTQloOrowbKO6VXl",
+  "name": "auth_be_verify_otp",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/neoito-hub/Auth.git",
+    "ssh": "git@github.com:neoito-hub/Auth.git",
+    "branch": "block_auth_be_verify_otp"
+  },
+  "parentBlockIDs": [
+    "GoAiV1kMZf7BqLq7Ze0S8"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": false,
+  "start": "node index.js"
+}
