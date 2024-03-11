@@ -1,0 +1,42 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("BB_AUTH_DATABASE_URL")
+}
+
+model user {
+  id                String  @id @default(uuid())
+  first_name        String
+  middle_name       String?
+  last_name         String?
+  country_code      String?
+  phn_no            String? @unique
+  display_name      String
+  display_picture   String?
+  status            Int     @default(4)
+  is_email_verified Boolean @default(false)
+
+  created_at DateTime? @default(now())
+  updated_at DateTime? @updatedAt
+
+  user_accounts user_account[] @relation("user_account_user_id")
+}
+
+model user_account {
+  id                String    @id @default(uuid())
+  email             String
+  provider          String // 0 password 1 google
+  password_hash     String?
+  password_salt     String?
+  created_at        DateTime? @default(now())
+  updated_at        DateTime? @updatedAt
+  user_id           String
+  is_email_verified Boolean   @default(false)
+
+  user user @relation("user_account_user_id", fields: [user_id], references: [id])
+
+  @@unique([email, provider], name: "emailIdentifier")
+}
