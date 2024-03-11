@@ -1,0 +1,69 @@
+{
+  "name": "auth",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/neoito-hub/Auth.git",
+    "ssh": "git@github.com:neoito-hub/Auth.git",
+    "branch": "block_auth"
+  },
+  "dependencies": {
+    "auth_fe_container": {
+      "directory": "auth_fe_container"
+    },
+    "auth_fe_login": {
+      "directory": "auth_fe_login"
+    },
+    "auth_fe_login_layout": {
+      "directory": "auth_fe_login_layout"
+    },
+    "auth_be_login": {
+      "directory": "auth_be_login"
+    },
+    "auth_be_shared": {
+      "directory": "auth_be_shared"
+    },
+    "auth_fe_reset_password": {
+      "directory": "auth_fe_reset_password"
+    },
+    "auth_be_reset_password": {
+      "directory": "auth_be_reset_password"
+    },
+    "auth_be_verify_email": {
+      "directory": "auth_be_verify_email"
+    },
+    "auth_fe_verify_email": {
+      "directory": "auth_fe_verify_email"
+    },
+    "auth_be_send_otp_for_verification": {
+      "directory": "auth_be_send_otp_for_verification"
+    },
+    "auth_be_verify_otp": {
+      "directory": "auth_be_verify_otp"
+    },
+    "auth_fe_forgot_password": {
+      "directory": "auth_fe_forgot_password"
+    },
+    "auth_be_forgot_password": {
+      "directory": "auth_be_forgot_password"
+    },
+    "auth_be_signup": {
+      "directory": "auth_be_signup"
+    },
+    "auth_fe_signup": {
+      "directory": "auth_fe_signup"
+    },
+    "auth_fe_verify_otp": {
+      "directory": "auth_fe_verify_otp"
+    },
+    "auth_be_resend_email_otp": {
+      "directory": "auth_be_resend_email_otp"
+    }
+  },
+  "blockId": "GoAiV1kMZf7BqLq7Ze0S8",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
