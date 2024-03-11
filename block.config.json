@@ -1,0 +1,21 @@
+{
+  "blockId": "bLKh2s2ps2l5wWXtjdPPp",
+  "name": "auth_fe_reset_password",
+  "type": "ui-elements",
+  "source": {
+    "https": "https://github.com/neoito-hub/Auth.git",
+    "ssh": "git@github.com:neoito-hub/Auth.git",
+    "branch": "block_auth_fe_reset_password"
+  },
+  "parentBlockIDs": [
+    "GoAiV1kMZf7BqLq7Ze0S8"
+  ],
+  "repoType": "mono",
+  "language": "js",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": false,
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack"
+}
