@@ -1,5 +1,5 @@
 {
-  "blockId": "x2trIOFQzHi0qH76KvO3X",
+  "blockId": "FEhMwog35yQDV3AXoujxx",
   "name": "auth_fe_verify_email",
   "type": "ui-elements",
   "source": {
@@ -8,7 +8,7 @@
     "branch": "block_auth_fe_verify_email"
   },
   "parentBlockIDs": [
-    "mr4XJ9awPyKpXhGJiTnkK"
+    "GoAiV1kMZf7BqLq7Ze0S8"
   ],
   "repoType": "mono",
   "language": "js",

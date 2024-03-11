@@ -1,5 +1,5 @@
 {
-  "blockId": "o8DB1kN5Z2CDrTZHIOedh",
+  "blockId": "1J4tjeGs_ollJC8dL12e-",
   "name": "auth_be_shared",
   "type": "shared-fn",
   "source": {
@@ -8,7 +8,7 @@
     "branch": "block_auth_be_shared"
   },
   "parentBlockIDs": [
-    "mr4XJ9awPyKpXhGJiTnkK"
+    "GoAiV1kMZf7BqLq7Ze0S8"
   ],
   "repoType": "mono",
   "language": "nodejs",

@@ -1,5 +1,5 @@
 {
-  "blockId": "i7uWLAUi3AmRSFXU6ppHo",
+  "blockId": "-Bvk7Bu0TYjm4uMtuvH4t",
   "name": "auth_be_resend_email_otp",
   "type": "function",
   "source": {
@@ -8,7 +8,7 @@
     "branch": "block_auth_be_resend_email_otp"
   },
   "parentBlockIDs": [
-    "mr4XJ9awPyKpXhGJiTnkK"
+    "GoAiV1kMZf7BqLq7Ze0S8"
   ],
   "repoType": "mono",
   "language": "nodejs",

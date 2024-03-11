@@ -1,5 +1,5 @@
 {
-  "blockId": "iTbujqEvjZQpvODs4jXwp",
+  "blockId": "OxHlc0P-K8B_EzfJ4JiUL",
   "name": "auth_be_reset_password",
   "type": "function",
   "source": {
@@ -8,7 +8,7 @@
     "branch": "block_auth_be_reset_password"
   },
   "parentBlockIDs": [
-    "mr4XJ9awPyKpXhGJiTnkK"
+    "GoAiV1kMZf7BqLq7Ze0S8"
   ],
   "repoType": "mono",
   "language": "nodejs",

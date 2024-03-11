@@ -1,5 +1,5 @@
 {
-  "blockId": "ctRbr4C8ffKyyZe-G6gdN",
+  "blockId": "fLWc7Aoft0R6ek0hxl6fQ",
   "name": "auth_be_signup",
   "type": "function",
   "source": {
@@ -8,7 +8,7 @@
     "branch": "block_auth_be_signup"
   },
   "parentBlockIDs": [
-    "mr4XJ9awPyKpXhGJiTnkK"
+    "GoAiV1kMZf7BqLq7Ze0S8"
   ],
   "repoType": "mono",
   "language": "nodejs",

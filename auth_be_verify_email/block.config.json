@@ -1,5 +1,5 @@
 {
-  "blockId": "LPvaFVqeiqM0M4d1aiXXd",
+  "blockId": "7l16oafM7o3IBLkqZJqQQ",
   "name": "auth_be_verify_email",
   "type": "function",
   "source": {
@@ -8,7 +8,7 @@
     "branch": "block_auth_be_verify_email"
   },
   "parentBlockIDs": [
-    "mr4XJ9awPyKpXhGJiTnkK"
+    "GoAiV1kMZf7BqLq7Ze0S8"
   ],
   "repoType": "mono",
   "language": "nodejs",

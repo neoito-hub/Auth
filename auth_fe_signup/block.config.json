@@ -1,5 +1,5 @@
 {
-  "blockId": "8I43DPrqq4rTeMiX5dSDK",
+  "blockId": "emFY5ANQVub277DTpqTgU",
   "name": "auth_fe_signup",
   "type": "ui-elements",
   "source": {
@@ -8,7 +8,7 @@
     "branch": "block_auth_fe_signup"
   },
   "parentBlockIDs": [
-    "mr4XJ9awPyKpXhGJiTnkK"
+    "GoAiV1kMZf7BqLq7Ze0S8"
   ],
   "repoType": "mono",
   "language": "js",

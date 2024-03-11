@@ -1,5 +1,5 @@
 {
-  "blockId": "z5BaUsPoN6LUFqu3Hptsm",
+  "blockId": "zsTKLgVSCY-r_UDVouS_Y",
   "name": "auth_fe_container",
   "type": "ui-container",
   "source": {
@@ -8,7 +8,7 @@
     "branch": "block_auth_fe_container"
   },
   "parentBlockIDs": [
-    "mr4XJ9awPyKpXhGJiTnkK"
+    "GoAiV1kMZf7BqLq7Ze0S8"
   ],
   "repoType": "mono",
   "language": "js",

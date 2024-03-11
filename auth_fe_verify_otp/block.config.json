@@ -1,5 +1,5 @@
 {
-  "blockId": "rJKA564M3jUUwVEWmy-wE",
+  "blockId": "fCXV6lS9V2KFpmN-ro_Hi",
   "name": "auth_fe_verify_otp",
   "type": "ui-elements",
   "source": {
@@ -8,7 +8,7 @@
     "branch": "block_auth_fe_verify_otp"
   },
   "parentBlockIDs": [
-    "mr4XJ9awPyKpXhGJiTnkK"
+    "GoAiV1kMZf7BqLq7Ze0S8"
   ],
   "repoType": "mono",
   "language": "js",

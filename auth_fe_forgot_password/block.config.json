@@ -1,5 +1,5 @@
 {
-  "blockId": "lafP00Y0BIvgBu_AWiya1",
+  "blockId": "2MrlSBgQq7Qy86uzKP3Iy",
   "name": "auth_fe_forgot_password",
   "type": "ui-elements",
   "source": {
@@ -8,7 +8,7 @@
     "branch": "block_auth_fe_forgot_password"
   },
   "parentBlockIDs": [
-    "mr4XJ9awPyKpXhGJiTnkK"
+    "GoAiV1kMZf7BqLq7Ze0S8"
   ],
   "repoType": "mono",
   "language": "js",

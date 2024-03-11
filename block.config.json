@@ -59,9 +59,11 @@
       "directory": "auth_be_resend_email_otp"
     }
   },
-  "blockId": "mr4XJ9awPyKpXhGJiTnkK",
+  "blockId": "GoAiV1kMZf7BqLq7Ze0S8",
   "parentBlockIDs": [],
   "isPublic": true,
-  "supportedAppblockVersions": ["1.0.0"],
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
   "repoType": "mono"
 }
