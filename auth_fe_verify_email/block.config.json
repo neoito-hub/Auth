@@ -1,0 +1,21 @@
+{
+  "blockId": "x2trIOFQzHi0qH76KvO3X",
+  "name": "auth_fe_verify_email",
+  "type": "ui-elements",
+  "source": {
+    "https": "https://github.com/neoito-hub/Auth.git",
+    "ssh": "git@github.com:neoito-hub/Auth.git",
+    "branch": "block_auth_fe_verify_email"
+  },
+  "parentBlockIDs": [
+    "mr4XJ9awPyKpXhGJiTnkK"
+  ],
+  "repoType": "mono",
+  "language": "js",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": false,
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack"
+}

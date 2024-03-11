@@ -1,0 +1,20 @@
+{
+  "blockId": "i7uWLAUi3AmRSFXU6ppHo",
+  "name": "auth_be_resend_email_otp",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/neoito-hub/Auth.git",
+    "ssh": "git@github.com:neoito-hub/Auth.git",
+    "branch": "block_auth_be_resend_email_otp"
+  },
+  "parentBlockIDs": [
+    "mr4XJ9awPyKpXhGJiTnkK"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}

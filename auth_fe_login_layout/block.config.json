@@ -1,0 +1,21 @@
+{
+  "blockId": "m7xr7lzaZHQsREdzYgVD6",
+  "name": "auth_fe_login_layout",
+  "type": "ui-elements",
+  "source": {
+    "https": "https://github.com/neoito-hub/Auth.git",
+    "ssh": "git@github.com:neoito-hub/Auth.git",
+    "branch": "block_auth_fe_login_layout"
+  },
+  "parentBlockIDs": [
+    "mr4XJ9awPyKpXhGJiTnkK"
+  ],
+  "repoType": "mono",
+  "language": "js",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": false,
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack"
+}

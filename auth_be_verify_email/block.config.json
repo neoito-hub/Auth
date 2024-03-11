@@ -1,0 +1,20 @@
+{
+  "blockId": "LPvaFVqeiqM0M4d1aiXXd",
+  "name": "auth_be_verify_email",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/neoito-hub/Auth.git",
+    "ssh": "git@github.com:neoito-hub/Auth.git",
+    "branch": "block_auth_be_verify_email"
+  },
+  "parentBlockIDs": [
+    "mr4XJ9awPyKpXhGJiTnkK"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": false,
+  "start": "node index.js"
+}

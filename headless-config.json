@@ -1,0 +1,14 @@
+{
+  "appblockVersion": ["1.0.0"],
+  "gitTarget": "org git",
+  "gitVisibility": "PUBLIC",
+  "gitDescription": "",
+  "blockNamingStrategyFnBody": "let i = 0;if (original !== lastTried){ i = parseInt(lastTried.split('_').pop(), 10)};return `${original}_${i + 1}`",
+  "blockNamingStrategyFnArgs": ["original", "lastTried"],
+  "defaultBranch": "main",
+  "localGitName": "frederic-neo",
+  "localGitEmail": "frederic@neoito.com",
+  "prismaSchemaFolderPath": "auth_be_shared/prisma",
+  "currentSpaceName": "neoito_hub",
+  "currentSpaceId": "iKLWWMnNJB5iPhG95gPsQ"
+}

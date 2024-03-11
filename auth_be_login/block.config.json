@@ -1,0 +1,20 @@
+{
+  "blockId": "EXsBq72d1ks2GzDcHevuH",
+  "name": "auth_be_login",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/neoito-hub/Auth.git",
+    "ssh": "git@github.com:neoito-hub/Auth.git",
+    "branch": "block_auth_be_login"
+  },
+  "parentBlockIDs": [
+    "mr4XJ9awPyKpXhGJiTnkK"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": false,
+  "start": "node index.js"
+}
