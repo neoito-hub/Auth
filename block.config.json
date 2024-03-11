@@ -16,5 +16,6 @@
     "1.0.0"
   ],
   "isPublic": true,
-  "start": "node index.js"
+  "start": "node index.js",
+  "version": "0.0.1"
 }
